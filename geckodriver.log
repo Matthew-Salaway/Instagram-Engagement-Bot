@@ -1,0 +1,1425 @@
+1599939786572	geckodriver	INFO	Listening on 127.0.0.1:57193
+1599939789650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileytCckT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599939793589	Marionette	INFO	Listening on port 57206
+1599939793777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1599939861699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599941167512	Marionette	INFO	Stopped listening on port 57206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e)"))
+1599941164743	Marionette	INFO	Listening on port 57748
+1599941165089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599941232229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: Error: Could not establish connection. Receiving end does not exist.
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:73:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:876:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:807:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:875:12
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2349:15
+render@chrome://mozapps/content/extensions/aboutaddons.js:2308:11
+JavaScript error: moz-extension://a5072b4f-4c6f-404d-85bf-6dd1977f1362/background.js, line 10: EJavaScript error: resource://gre/actors/PictureInPictureChild.jsm, liJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1600134165660	Marionette	INFO	Stopped listening on port 57748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esponse to: querySelector"
+console.error: "Error while calling actor 'domwalker's method 'querySelector'" "can't access dead object"
+console.error: "getDOMListeners/<@resource://devtools/server/actors/inspector/event-collector.js:278:22\ngetDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:276:22\ngetListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28\nhasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17\nhasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21\nget _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33\nform@resource://devtools/server/actors/inspector/node.js:262:7\nwrite@resource://devtools/shared/protocol/types.js:363:32\ntypes.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33\nwrite@resource://devtools/shared/protocol/types.js:220:16\nwrite@resource://devtools/shared/protocol/types.js:268:39\nwrite@resource://devtools/shared/protocol/Response.js:102:22\nwrite@resource://devtools/shared/protocol/Response.js:47:28\nsendReturn@resource://devtools/shared/protocol/Actor.js:172:38\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn2.child2/domwalker24 (resource://devtools/server/actors/inspector/event-collector.js:278:22)", "resource://devtools/shared/protocol/Front.js", 323))
+1599942895075	Marionette	INFO	Stopped listening on port 57921
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilenR9vkv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599942895938	Marionette	INFO	Listening on port 58359
+1599942896212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1599942959419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1600054545524	Marionette	INFO	Stopped listening on port 58359
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile2Chjmr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599943169710	Marionette	INFO	Listening on port 58514
+1599943170304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599943235332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1599943465666	Marionette	INFO	Stopped listening on port 58514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile2FkskQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599943464733	Marionette	INFO	Listening on port 58684
+1599943465007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599943529606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599946745090	Marionette	INFO	Stopped listening on port 58684
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileG4ntqB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599943900257	Marionette	INFO	Listening on port 58948
+1599943900323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1599943964355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 568: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+JavaScript error: moz-extension://9779ade8-4bc7-485e-bac4-0a6eaf86e8c0/content/content.js, line 105: TypeError: setting getter-only property "className"
+tabs.onUpdated event fired after context unloaded.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit ruto@testleaf.com.412316860459
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1899: TypeError: data is null
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1600134166305	Marionette	INFO	Stopped listening on port 58948
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileaecdGq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599947474737	Marionette	INFO	Listening on port 59893
+1599947475246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599947540845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: https://www.gstatic.com/mysidia/cc1d996cbedb800508d6b87c0d44d0d0.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22376999848015558012%22%2c%22adomain%22%3a%22samsung.com%22%2c%22page%22%3a%221218526%22%2c%22format%22%3a%2289893%22%2c%22crid%22%3a%2274_5520669%22%2c%22dsp%22%3a%2231%22%2c%22buyer%22%3a%224237%22%2c%22cid%22%3a%221232794%22%2c%22adid%22%3a%2274_5520669%22%2c%22hash%22%3a%22-7566062333441853980%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22384599672388844396%22%2c%22adomain%22%3a%22microsoft.com%22%2c%22page%22%3a%221218526%22%2c%22format%22%3a%2289893%22%2c%22crid%22%3a%2274_5498658%22%2c%22dsp%22%3a%2231%22%2c%22buyer%22%3a%224237%22%2c%22cid%22%3a%221009647%22%2c%22adid%22%3a%2274_5498658%22%2c%22hash%22%3a%222944611412733633053%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://code.createjs.com/1.0.0/createjs.min.js, line 14: NS_ERROR_FAILURE: 
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22396421621412728422%22%2c%22adomain%22%3a%22sprouts.com%22%2c%22page%22%3a%221218526%22%2c%22format%22%3a%2289893%22%2c%22crid%22%3a%2274_5915318%22%2c%22dsp%22%3a%2231%22%2c%22buyer%22%3a%224237%22%2c%22cid%22%3a%221282465%22%2c%22adid%22%3a%2274_5915318%22%2c%22hash%22%3a%226088348992047545078%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js, line 12: Script terminated by timeout at:
+@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:1
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:22993
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:14:20101
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:8379
+c.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:14:28037
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:8379
+c.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:14:28037
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:8379
+c.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:14:28037
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:8379
+b.draw@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:26973
+b.update@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:26465
+b.handleEvent@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:13:14830
+b._dispatchEvent@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:4075
+b._dispatchEvent@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:4158
+b.dispatchEvent@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:3479
+a._tick@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:7459
+a._handleTimeout@https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js:12:6772
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+l.ma/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:64409
+Zd/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25858
+Wd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25403
+zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22309
+Wd@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25705
+Zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25831
+zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22354
+
+JavaScript error: https://www.gstatic.com/mysidia/cc1d996cbedb800508d6b87c0d44d0d0.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/cc1d996cbedb800508d6b87c0d44d0d0.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://bitninja.io/?gclid=EAIaIQobChMI_duo9M_k6wIV3JOnCh1p6gpeEAEYASAAEgLtl_D_BwE, line 15: SyntaxError: illegal character
+JavaScript warning: https://fast.wistia.com/assets/external/engines/hls_video.js, line 1: Script terminated by timeout at:
+m</<.value<@https://fast.wistia.com/assets/external/engines/hls_video.js:1:179000
+m<@https://fast.wistia.com/assets/external/engines/hls_video.js:1:179001
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:179707
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:172204
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:74319
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:16298
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:16167
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:15539
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:2084
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:1977
+t@https://fast.wistia.com/assets/external/engines/hls_video.js:1:104
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:923
+@https://fast.wistia.com/assets/external/engines/hls_video.js:1:935
+
+JavaScript error: https://www.gstatic.com/mysidia/cc1d996cbedb800508d6b87c0d44d0d0.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+Ta@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:4852
+Ng@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:55910
+lg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:58382
+mg.prototype.a@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:50393
+Zf/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:46106
+v@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:3034
+Zf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:46079
+Lg/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:57718
+v@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:3034
+Lg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:57625
+Jg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:54673
+Gg.prototype.tb@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:54341
+Ue/a.a<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:33327
+Zd/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25858
+Wd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25403
+zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22309
+Wd@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25705
+Zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25831
+zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22309
+zd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22354
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn.programiz.com/sites/tutorial2program/files/js/js_BLxotNs2yt7YGlf9QRI9L9AMfdnkQfnN-_ADBTW3SiE.js, line 116: ReferenceError: Drupal is not defined
+JavaScript error: https://cdn.programiz.com/sites/tutorial2program/files/js/js_Xdog1yvbsHUl33-wo9ctRnQMgE_3uBBG15y3yJm_2eY.js, line 8: ReferenceError: Drupal is not defined
+JavaScript error: https://cdn.programiz.com/sites/tutorial2program/files/js/js_0EDobzbOeU8CmSVIjKwmqfmTC9h43DFxyiWtQ95qYKQ.js, line 2: ReferenceError: Drupal is not defined
+JavaScript error: https://cdn.programiz.com/sites/tutorial2program/files/js/js_i8F5b-SKEq2msoWx7DhGbo2buS0kuCXUqlUSaoP0cmc.js, line 3: ReferenceError: Drupal is not defined
+JavaScript error: https://www.programiz.com/python-programming/methods/list/remove, line 85: ReferenceError: Drupal is not defined
+JavaScript error: https://cdn.programiz.com/sites/tutorial2program/files/js/js_Ck_gzNS8U0Fg2ZfMRY5_25mdJeoG8kw3Tn-CAkgYPLQ.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61526080/20200810062717953/index.html?e=69&leftOffset=0&topOffset=0&c=mdwMRAlVMM&t=1&renderingType=2, line 27: TypeError: this.myBtn is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+1600134169435	Marionette	INFO	Stopped listening on port 59893
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599950141325	Marionette	INFO	Stopped listening on port 61023
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilebLO4d0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599950143409	Marionette	INFO	Listening on port 61358
+1599950143699	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1630:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1012:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1539: TypeError: targetFront is null
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1012:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js?444431, line 1: Error: CE: multiple userscripts installed
+1599950616681	Marionette	INFO	Stopped listening on port 61351599950617076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileHMxaYA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599950621386	Marionette	INFO	Listening on port 61676
+1599950621796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thetopsites.net/js/custom.js, line 1: TypeError: $(...).cycle is not a function
+JavaScript error: https://www.thetopsites.net/js/custom.js, line 1: TypeError: $(...).cslider is not a function
+JavaScript error: https://www.thetopsites.net/js/custom.js, line 1: TypeError: $(...).flexslider is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://dev.to/serviceworker.js, line 68: TypeError: 'enqueue' may only be called on a stream in the 'readable' state.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn-client.medium.com/lite/static/js/vendors~AMPPost~CollectionHomepage~CollectionHomepagePreview~CollectionStyleEditor~CollectionTagged~~42f7530a.0dd746e8.chunk.js, line 1: Script terminated by timeout at:
+d@https://cdn-client.medium.com/lite/static/js/vendors~AMPPost~CollectionHomepage~CollectionHomepagePreview~CollectionStyleEditor~CollectionTagged~~42f7530a.0dd746e8.chunk.js:1:13371
+p@https://cdn-client.medium.com/lite/static/js/vendors~AMPPost~CollectionHomepage~CollectionHomepagePreview~CollectionStyleEditor~CollectionTagged~~42f7530a.0dd746e8.chunk.js:1:13758
+p@https://cdn-client.medium.com/lite/static/js/vendors~AMPPost~CollectionHomepage~CollectionHomepagePreview~CollectionStyleEditor~CollectionTagged~~42f7530a.0dd746e8.chunk.js:1:13611
+E@https://cdn-client.medium.com/lite/static/js/AMPPost~CollectionHomepage~CollectionHomepagePreview~CollectionNewShortformEditor~CollectionPostShor~9d0887d2.3eab3a97.chunk.js:1:67169
+Ci@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:55380
+as@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:62404
+Ra@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:99332
+xa@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:83766
+ga@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:80796
+ha@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:79389
+_o/<@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:41857
+./node_modules/scheduler/cjs/scheduler.production.min.js/t.unstable_runWithPriority@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:82:3884
+ho@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:41585
+_o@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:41804
+vo@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:41737
+da@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:78382
+Qi@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:17:58499
+a@https://cdn-client.medium.com/lite/static/js/main.06df3608.chunk.js:1:396826
+emit/<@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:28:44839
+emit@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:28:44821
+e/this._onScrol1599951892804	Marionette	INFO	Stopped listening on port 62590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+:36490
+j@https://cdn-client.medium.com/lite/static/js/vendors~main.719c533f.chunk.js:28:36380
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1599951888706	Marionette	INFO	Stopped listening on port 61676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599952359305	geckodriver	INFO	Listening on 127.0.0.1:63056
+1599952362371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilezp7YKG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599952366339	Marionette	INFO	Listening on port 63064
+1599952366486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1599952423720	Marionette	INFO	Stopped listening on port 63064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileptuUM5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599952421812	Marionette	INFO	Listening on port 63144
+1599952422267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600054679697	geckodriver	INFO	Listening on 127.0.0.1:49898
+1600054682819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileqtpk07"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600054688627	Marionette	INFO	Listening on port 49906
+1600054688893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600054741797	Marionette	INFO	Stopped listening on port 49901600054742374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilerCoB0e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600054748068	Marionette	INFO	Listening on port 49986
+1600054748667	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600055183034	Marionette	INFO	Stopped listening on port 49986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: canJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600055186460	Marionette	INFO	Listening on port 50178
+1600055186833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600058688258	Marionette	INFO	Stopped listening on port 50178
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileYXSXcj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600058683997	Marionette	INFO	Listening on port 50901
+1600058684177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600058873627	geckodriver	INFO	Listening on 127.0.0.1:51005
+1600058876751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilefMhjat"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600058882433	Marionette	INFO	Listening on port 51013
+1600058882757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600059529098	geckodriver	INFO	Listening on 127.0.0.1:51184
+1600059532198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilef1T5xR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600059536688	Marionette	INFO	Listening on port 51192
+1600059536956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600059924861	Marionette	INFO	Stopped listening on port 51192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileqw6JgM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600059767712	Marionette	INFO	Listening on port 51365
+1600059767840	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handl1600060453471	Marionette	INFO	Listening on port 51545
+1600060454213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600060584832	Marionette	INFO	Stopped listening on port 51545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+andler returned false (indicating failure)
+
+1600060453777	Marionette	INFO	Stopped listening on port 51365
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600060576544	geckodriver	INFO	Listening on 127.0.0.1:51629
+1600060579610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileRJz5rX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600060585360	Marionette	INFO	Listening on port 51637
+1600060585433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600060717164	Marionette	INFO	Stopped listening on port 51637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilecT55zb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600060714590	Marionette	INFO	Listening on port 51717
+1600060714886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600093083300	Marionette	INFO	Stopped listening on port 51717
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileSKM8g8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600093086977	Marionette	INFO	Listening on port 60328
+1600093087080	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+1600093760948	Marionette	INFO	Stopped listening on port 60328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileHTNfz7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600093759534	Marionette	INFO	Listening on port 60499
+1600093759978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600094257172	Marionette	INFO	Stopped listening on port 60499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileCIuHfH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600094137346	Marionette	INFO	Listening on port 60629
+1600094137498	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,na1600094173352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilepYRk12"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600094177479	Marionette	INFO	Listening on port 60707
+1600094177572	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600094250870	Marionette	INFO	Stopped listening on port 60707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600094261350	geckodriver	INFO	Listening on 127.0.0.1:60782
+1600094264420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilewCAFEu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600094268536	Marionette	INFO	Listening on port 60790
+1600094268553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/es6/Consumer.js/afa48e352b10.js, line 1179: Script terminated by timeout at:
+l@https://www.instagram.com/static/bundles/es6/Consumer.js/afa48e352b10.js:1179:795
+qe@https://www.instagram.com/static/bundles/es6/Consumer.js/afa48e352b10.js:1179:19481
+
+1600097884020	Marionette	INFO	Stopped listening on port 60790
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600098044960	geckodriver	INFO	Listening on 127.0.0.1:61413
+1600098048093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile3Sy7kW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600098055324	Marionette	INFO	Listening on port 61423
+1600098055460	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 51596, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1600098426481	Marionette	INFO	Stopped listening on port 61423
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600098430042	Marionette	INFO	Listening on port 61537
+1600098430450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600098639057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600098644778	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.learnpython.org/en/Loops, line 372: TypeError: banners[bannerIndex] is undefined
+1600098674259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600098777724	geckodriver	INFO	Listening on 127.0.0.1:61687
+1600098780891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilerfXn1O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600098787500	Marionette	INFO	Listening on port 61695
+1600098787925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600099355622	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099362406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099386135	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099447058	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099465605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099472501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099494225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099525083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099532813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099549544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099566917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099597554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099606076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099613837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099638339	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099660141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099690560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099712499	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099720262	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099736591	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099744346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099756075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099763817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099781543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099809747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099815466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099826190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600099847340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600134170483	Marionette	INFO	Stopped listening on port 61695
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600182116987	geckodriver	INFO	Listening on 127.0.0.1:62196
+1600182120210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileLqC9Ih"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600182127757	Marionette	INFO	Listening on port 62204
+1600182128245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184109171	Marionette	INFO	Stopped listening on port 62204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile1APgwn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600183896833	Marionette	INFO	Listening on port 62497
+1600183897431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184026739	Marionette	INFO	Stopped listening on port 62497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600184076555	geckodriver	INFO	Listening on 127.0.0.1:62566
+1600184079816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileBjWRWQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184087766	Marionette	INFO	Listening on port 62574
+1600184087876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184102711	Marionette	INFO	Stopped listening on port 62574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600184125907	geckodriver	INFO	Listening on 127.0.0.1:62642
+1600184128906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMqjMoQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184134169	Marionette	INFO	Listening on port 62650
+1600184134358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184286671	Marionette	INFO	Stopped listening on port 62651600184286863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileQAtL9q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184292738	Marionette	INFO	Listening on port 62721
+1600184292883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184702261	Marionette	INFO	Stopped listening on port 62721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600184714175	geckodriver	INFO	Listening on 127.0.0.1:62833
+1600184717206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilehZA5iv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184720885	Marionette	INFO	Listening on port 62841
+1600184721351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184771491	Marionette	INFO	Stopped listening on port 62841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600184810316	geckodriver	INFO	Listening on 127.0.0.1:62913
+1600184813350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilenI6hgH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184817156	Marionette	INFO	Listening on port 62921
+1600184817474	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetryJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600184877987	Marionette	INFO	Listening on port 62997
+1600184878319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600184952563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600184968292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600184989597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600184996324	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185014049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185020781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185041505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185073453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185099326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185105043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185126767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600185157379	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600189020347	Marionette	INFO	Stopped listening on port 62997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600189036359	geckodriver	INFO	Listening on 127.0.0.1:63726
+1600189039441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMr51bX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600189043281	Marionette	INFO	Listening on port 63734
+1600189043568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600190274852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600190299572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600190305297	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600190332016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600190339807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600190370258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600194792613	Marionette	INFO	Stopped listening on port 63734
+[Parent 56324, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1604547270259	geckodriver	INFO	Listening on 127.0.0.1:62065
+1604547273355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilejXGzT8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604547279195	Marionette	INFO	Listening on port 62073
+1604547279790	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604547414419	Marionette	INFO	Stopped listening on port 62073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+an't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: services.settings: main/nimbus-desktop-experiments sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 680))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604547405541	geckodriver	INFO	Listening on 127.0.0.1:62166
+1604547408631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileKCLkxH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604547415415	Marionette	INFO	Listening on port 62174
+1604547415988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604550061237	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551459071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1604551509971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551562230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551620416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551677408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551735724	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551792838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551849587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551899856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604551954602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552003372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552056006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552108940	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552162485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552218285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552269310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552322130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552379407	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552436597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552487930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552544719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552602341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552659163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552712165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552767639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552827389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552883086	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552934365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604552986165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553041661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1604553100414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553150599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553212146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553274893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553329810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553381032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553433463	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553486849	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553546645	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553602607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604553646616	Marionette	INFO	Stopped listening on port 62174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604591287304	geckodriver	INFO	Listening on 127.0.0.1:64637
+1604591290508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilexgDSAE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604591294165	Marionette	INFO	Listening on port 64645
+1604591294215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604591331602	Marionette	INFO	Stopped listening on port 64645
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604591334461	geckodriver	INFO	Listening on 127.0.0.1:64730
+1604591337542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileD8qqaF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604591340781	Marionette	INFO	Listening on port 64741
+1604591341293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604591370019	Marionette	INFO	Stopped listening on port 64741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
